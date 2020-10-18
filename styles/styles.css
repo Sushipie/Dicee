@@ -1,0 +1,22 @@
+body {
+  background-color: #282828;
+}
+
+h1{
+    font-size: 5rem;
+    padding-top: 8%;
+    color: green;
+    text-align: center;
+}
+
+h2{
+    color: green;
+    font-size: 1.3rem;
+    
+}
+
+.diceBox
+{
+    padding-top: 15%;
+    text-align: center;
+}
